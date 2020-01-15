@@ -1,5 +1,5 @@
 # An Analysis of Kickstarter Campaigns
-An analysis was performed using Kickstarter data to help inform Louise about crowdfunding campaigns, and what factors may help her have a successful campaign. 
+An analysis was performed using Kickstarter data to help inform Louise about crowdfunding campaigns, and what factors may help her have a successful campaign for her play "Fever". 
 
 Kickstarter data demonstarted that there has been a total of 912 theater campaigns in the United States. Among these theater campaigns, 525 (58%) were successful campaigns and 349 (38%) were failed campaigns. There were also 12 campaigns were currently active whereas 26 campaigns were cancelled. 
 ![Theater Outcomes, U.S.](TheaterOutcomes.png)

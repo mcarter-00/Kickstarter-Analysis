@@ -27,7 +27,7 @@ There were 65 plays in the $10,000-$14,999 goal range that were successful and 2
 ![Outcomes Based on Goals](M1C_OutcomesBasedOnGoals.png)
 
 One reason Louise’s play fell short of her goal could be due to when she launched her campaign. She may have launched her campaign in a month other than May or June given that Kickstarter data showed that successful campaignes were launched during these two months. There were 111 successful campaigns launched in May and 100 successful campaigns launched in June.
-![Outcomes Based on Launch Date](M1C_OutcomesBasedOnLaunchDate.png.png)
+![Outcomes Based on Launch Date](M1C_OutcomesBasedOnLaunchDate.png)
 
 Another reason could be due to length of her campaign. Some further analysis revealed that shorter Kickstarters are more successful. Campaign that are less than four weeks long are more successful than campaigns that are four or more weeks long. Among the 694 successful campaigns, 411 (59%) were less than a month and 275 (40%) were at least a month. Given that Louise’s play came close to its goal in a short amount of time, there may be another factor that may have led to her shortcomings. It is also important to define short time since there were several campaigns that were one week or two weeks long vs. three weeks or four weeks.
 ![Outcomes Based on Length](M1C_OutcomesBasedOnLength.png)

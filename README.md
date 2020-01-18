@@ -17,3 +17,18 @@ Major takeaways:
 * Both theater and play kickstarters have shown success in the U.S. Louise should pursue a "play" Kickstarter.
 * Kickstarters launched in May/June have been more successul than those launched in December. Louise's "Fever" play should be launched sometime late Spring/early Summer.
 * Ambition goals may not lead to successful kickstarter. Louise should consider reducing her Kickestarter goals.
+
+
+### Challenge
+Kickstarter data provided insight into outcomes relating to play campaigns. In particular, two goal ranges were used to compare outcomes for Louise’s $10,000 goal: $5,000-$9,999 and $10,000-$14,999.
+
+There were 65 plays in the $10,000-$14,999 goal range that were successful and 230 plays in the $5,000-$9,9999 goal range that were successful. Chances of success were at 52% and 59%, respectively. In addition, 59 plays in the $10,000-$14,999 goal range that failed and 160 plays in the $5,000-$9,9999 goal range that failed. Chances of failure were at 48% and 41%, respectively. Given Louise’s play outcomes, her goals were consistent with data showing her chances of success and failure. It turned out that Louise’s play had greater chances of reaching a goal of $5,000-$9,999 (59%), and greater chances of failing to reach her goal of at least $10,000 (48%).
+![Outcomes Based on Goals](M1C_OutcomesBasedOnGoals.png)
+
+One reason Louise’s play fell short of her goal could be due to when she launched her campaign. She may have launched her campaign in a month other than May or June given that Kickstarter data showed that successful campaignes were launched during these two months. There were 111 successful campaigns launched in May and 100 successful campaigns launched in June.
+![Outcomes Based Launch Date](M1C_OutcomesBasedLaunchDate.png)
+
+Another reason could be due to length of her campaign. Some further analysis revealed that shorter Kickstarters are more successful. Campaign that are less than four weeks long are more successful than campaigns that are four or more weeks long. Among the 694 successful campaigns, 411 (59%) were less than a month and 275 (40%) were at least a month. Given that Louise’s play came close to its goal in a short amount of time, there may be another factor that may have led to her shortcomings. It is also important to define short time since there were several campaigns that were one week or two weeks long vs. three weeks or four weeks.
+![Outcomes Based on Length](M1C_OutcomesBasedOnLength.png)
+
+The dataset included several Kickstarters that were still alive during analysis. This may be a limitation since that data could not be used to determine success or failure. It would be interesting to obtain additional information on the average donation in relation to launch date, and whether timing could have affected how much a backer was able to donate. Displaying this information using a line graph could help visualize time periods in which backers are most generous. Another suggestion would be to include average donation in relation to length of campaigns. Perhaps this could uncover a factor to why Louise could not reach her goal.

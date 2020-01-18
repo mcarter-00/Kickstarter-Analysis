@@ -18,6 +18,7 @@ Major takeaways:
 * Kickstarters launched in May/June have been more successul than those launched in December. Louise's "Fever" play should be launched sometime late Spring/early Summer.
 * Ambition goals may not lead to successful kickstarter. Louise should consider reducing her Kickestarter goals.
 
+---
 
 ### Challenge
 Kickstarter data provided insight into outcomes relating to play campaigns. In particular, two goal ranges were used to compare outcomes for Louise’s $10,000 goal: $5,000-$9,999 and $10,000-$14,999.

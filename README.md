@@ -20,7 +20,7 @@ Major takeaways:
 
 ---
 
-### Challenge
+# Challenge
 Kickstarter data provided insight into outcomes relating to play campaigns. In particular, two goal ranges were used to compare outcomes for Louise’s $10,000 goal: $5,000-$9,999 and $10,000-$14,999.
 
 There were 65 plays in the $10,000-$14,999 goal range that were successful and 230 plays in the $5,000-$9,9999 goal range that were successful. Chances of success were at 52% and 59%, respectively. In addition, 59 plays in the $10,000-$14,999 goal range that failed and 160 plays in the $5,000-$9,9999 goal range that failed. Chances of failure were at 48% and 41%, respectively. Given Louise’s play outcomes, her goals were consistent with data showing her chances of success and failure. It turned out that Louise’s play had greater chances of reaching a goal of $5,000-$9,999 (59%), and greater chances of failing to reach her goal of at least $10,000 (48%).

@@ -1,6 +1,7 @@
 # Kickstarter Analysis
 Performing an analysis using kickstarter data to inform a campaign organizer as they work to reach their funding goals.
 
+---
 
 # Project
 An analysis was performed using Kickstarter data to help inform Louise about crowdfunding campaigns, and what factors may help her have a successful campaign for her play "Fever" with a $10,000 budget. 

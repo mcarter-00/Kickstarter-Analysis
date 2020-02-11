@@ -1,4 +1,8 @@
-# An Analysis of Kickstarter Campaigns
+# Kickstarter Analysis
+Performing an analysis using kickstarter data to inform a campaign organizer as they work to reach their funding goals.
+
+
+## Project
 An analysis was performed using Kickstarter data to help inform Louise about crowdfunding campaigns, and what factors may help her have a successful campaign for her play "Fever" with a $10,000 budget. 
 
 Kickstarter data demonstarted that there has been a total of 912 theater campaigns in the United States. Among these theater campaigns, 525 (58%) were successful campaigns and 349 (38%) were failed campaigns. There were also 12 campaigns that were currently active and 26 campaigns that were cancelled.
@@ -19,14 +23,14 @@ Some statistics comparing successful and failed "play" kickstarters in the Unite
 
 
 
-## Major takeaways:
+### Major takeaways:
 * Both theater and play kickstarters have shown success in the U.S. Louise should pursue a "play" Kickstarter.
 * Kickstarters launched in May/June have been more successul than those launched in December. Louise's "Fever" play should be launched sometime late Spring/early Summer.
 * Ambition goals may not lead to successful kickstarter. Louise should consider reducing her Kickestarter goals.
 
 ---
 
-# Challenge
+## Challenge
 Kickstarter data provided insight into outcomes relating to play campaigns. In particular, two goal ranges were used to compare outcomes for Louise’s $10,000 goal: $5,000-$9,999 and $10,000-$14,999.
 
 There were 65 plays in the $10,000-$14,999 goal range that were successful and 230 plays in the $5,000-$9,9999 goal range that were successful. Chances of success were at 52% and 59%, respectively. In addition, 59 plays in the $10,000-$14,999 goal range that failed and 160 plays in the $5,000-$9,9999 goal range that failed. Chances of failure were at 48% and 41%, respectively. Given Louise’s play outcomes, her goals were consistent with data showing her chances of success and failure. It turned out that Louise’s play had greater chances of reaching a goal of $5,000-$9,999 (59%), and greater chances of failing to reach her goal of at least $10,000 (48%).

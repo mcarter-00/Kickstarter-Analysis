@@ -3,7 +3,7 @@ An analysis was performed using Kickstarter data to help inform Louise about cro
 
 Kickstarter data demonstarted that there has been a total of 912 theater campaigns in the United States. Among these theater campaigns, 525 (58%) were successful campaigns and 349 (38%) were failed campaigns. There were also 12 campaigns that were currently active and 26 campaigns that were cancelled.
 
-![Theater Outcomes, U.S.](TheaterOutcomes.png = 75x150)
+![Theater Outcomes, U.S.](TheaterOutcomes.png)
 
 Theaters in the U.S. were stratisfied into musicals, plays, and spaces. Plays contributed to theater kickstarters the most, followed by spaces then musicals. Among the 671 "play" kickstarters, 412 (61%) were successful and 250 (37%) failed.
 
